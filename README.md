@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Omar Zarate Mendoza</h1>
+<h1 align="center">Hola 👋, Soy Omar Zarate</h1>
 <h3 align="center">Soy un apasionado desarrollador con experiencia en el diseño y desarrollo de interfaces web modernas y atractivas.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0marz" alt="0marz" /></a> </p>
